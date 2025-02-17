@@ -29,7 +29,7 @@ const Home = () => {
 
     return (
         <div className="home-page">
-   <h1 className="brand-name"><i className="fas fa-fire"></i> Kavya-Resume-Builder</h1>
+   <h1 className="brand-name"><i className="fas fa-fire"></i> Resume-Builder</h1>
                 
             <div className="pictures">
                 <img
